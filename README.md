@@ -2,6 +2,12 @@
 
 This project is a **Responsive Dashboard UI** built using [shadcn/ui](https://ui.shadcn.com/) components. The assignment was completed as part of a frontend developer test.
 
+# Reference Image
+
+![image](https://github.com/user-attachments/assets/257fc992-9838-4489-9404-b6d6c354e94c)
+
+---
+
 ## Live Demo
 
 🔗 [View Live Site](https://your-deployment-link.com)  
@@ -42,6 +48,8 @@ npx shadcn@latest add select
 npx shadcn@latest add table
 ```
 
+---
+
 ## Run Locally
 
 1. Clone the repository
@@ -62,7 +70,7 @@ npm install
 ```bash
 npm run dev
 ```
-
+---
 
 ## 📁 Folder Structure
 
